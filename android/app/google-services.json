@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657351363818",
+    "project_id": "note-loom-32716",
+    "storage_bucket": "note-loom-32716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657351363818:android:7f137139eb067c18a89b93",
+        "android_client_info": {
+          "package_name": "com.innoventors.noteloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657351363818-kf1eme4ci40abv3gdlmhrusffl6qjbhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jHZik6XXTrI3BzO2hkDbDks3RjVzLxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657351363818-kf1eme4ci40abv3gdlmhrusffl6qjbhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
